@@ -1,0 +1,23 @@
+body {
+  margin: auto;
+  background-color: #FFF5EE;
+ text-align: center;
+ font-family: 'Gluten', cursive;
+}
+hr  {
+   border-style: none;
+   border-top-style: solid;
+   border-color: gray;
+   border-width: 5px;
+   width: 100%;
+   margin: 200px auto 50px auto;
+}
+h1{
+
+  color: #778899;
+  font-size: 5.625rem;
+margin: 50px 0 auto;
+ padding-top: 220px;
+ font-family: 'Grey Qo', cursive;
+
+}
